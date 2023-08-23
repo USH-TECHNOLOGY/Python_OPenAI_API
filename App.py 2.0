@@ -1,3 +1,5 @@
+#This script differs from the Original in ways that would result in being able to store pdfs as they are added#
+
 from dotenv import load_dotenv
 import os
 import streamlit as st
